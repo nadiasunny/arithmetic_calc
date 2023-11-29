@@ -3,17 +3,18 @@
 
 def add(num1, num2):
     """Return the sum of num1 and num2."""
-
-    return 10
+    sum = num1 + num2
+    return sum
 
 
 def subtract(num1, num2):
     """Return the value of num1 minus num2."""
-
+    
+    return
 
 def multiply(num1, num2):
     """Multiply the num1 by num2 and return the result."""
-
+    
 
 def divide(num1, num2):
     """Divide the num1 by num2, returning a floating point."""
